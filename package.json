@@ -1,0 +1,21 @@
+{
+  "name": "webpack-intro-WWC",
+  "version": "0.0.1",
+  "description": "Get moving with Webpack!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachel-ftw/incremental-game.git"
+  },
+  "author": "Rachel Ralston",
+  "private": false,
+  "devDependencies": {
+    "opt-cli": "1.5.1",
+    "webpack": "^2.2.0",
+    "webpack-dev-server": "^2.2.0",
+    "webpack-validator": "^2.3.0"
+  },
+  "scripts": {
+    "build": "webpack -p --env.prod",
+    "dev": "webpack-dev-server --env.dev"
+  }
+}
