@@ -9,9 +9,11 @@
   "author": "Rachel Ralston",
   "private": false,
   "devDependencies": {
+    "css-loader": "^0.26.1",
     "opt-cli": "1.5.1",
+    "style-loader": "^0.13.1",
     "webpack": "^2.2.0",
-    "webpack-dev-server": "^2.2.0",
+    "webpack-dev-server": "^2.3.0",
     "webpack-validator": "^2.3.0"
   },
   "scripts": {
