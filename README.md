@@ -5,9 +5,12 @@ Presentation: Slides(link coming soon), Video(link coming soon)
 ###Branch List
 
 **Super Simple Concepts Setup**
-Start on Master
-Simple-02--AddSecondFile
-Simple-03--AddCss
+- Start on Master
+- Simple-02--AddSecondFile
+- Simple-03--AddCss
+
+**Practical Basic Setup**
+- Practical-01--SimpleConfigFile
 
 
 ### My Favorite Webpack Resources
