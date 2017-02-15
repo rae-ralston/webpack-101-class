@@ -2,4 +2,5 @@ body {
   background-image: url("./leaves.jpg");
   width: 100vw;
   height: 100vh;
+  font-size: 3em;
 }
