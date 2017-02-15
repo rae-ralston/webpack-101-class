@@ -2,9 +2,20 @@
 
 Presentation: Slides(link coming soon), Video(link coming soon)
 
+###Branch List
+
+**Super Simple Concepts Setup**
+Start on Master
+Simple-02--AddSecondFile
+
+
 ### My Favorite Webpack Resources
 
-[Front End Center — Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
+[Webpack Documentation Getting Started Tutorial](http://webpack.github.io/docs/tutorials/getting-started/)
+
+[Changlog Podcast with Sean Larkin](https://changelog.com/podcast/233): Sean is part of the webpack core team, also generally a great podcast on opensource tech.
+
+[Front End Center — Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU): Very visual. Goes over how bundling 
 
 [FrontEnd Master's Webpack Deep Dive](https://frontendmasters.com/courses/webpack/): Great for those ready to go a little deeper and talk about optimization & advanced features.
 
