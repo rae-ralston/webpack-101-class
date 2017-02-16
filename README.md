@@ -6,6 +6,7 @@ Presentation: Slides(link coming soon), Video(link coming soon)
 
 **Super Simple Concepts Setup**
 - Start on Master
+- Simple-01--InitialSetup
 - Simple-02--AddSecondFile
 - Simple-03--AddCss
 
